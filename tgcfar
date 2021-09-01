@@ -5,6 +5,14 @@
   "author": "STARember",
   "cover": "https://imgur.com/6XObwwl.jpg",
   "chapters": {
+  "3": {
+      "title": "مناقشة ليلية في نان يانغ (1)",
+      "volume": "المجلد الأول",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/80x8tsx/"
+      },
+      "last_updated": "1630520720"
+   },
   "2": {
       "title": "الصعود الثالث للعاصمة السماوية (2)",
       "volume": "المجلد الأول",
