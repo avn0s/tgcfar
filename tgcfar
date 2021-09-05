@@ -5,6 +5,14 @@
   "author": "STARember",
   "cover": "https://imgur.com/6XObwwl.jpg",
   "chapters": {
+  "5": {
+      "title": "لقاء على جبل يو جون (1)",
+      "volume": "المجلد الأول",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/zKbnYwf/"
+      },
+      "last_updated": "1630844879"
+   },
   "4": {
       "title": "مناقشة ليلية في نان يانغ (2)",
       "volume": "المجلد الأول",
