@@ -5,6 +5,22 @@
   "author": "STARember",
   "cover": "https://imgur.com/6XObwwl.jpg",
   "chapters": {
+  "10": {
+      "title": "ظل شبحي، ضال (2)",
+      "volume": "المجلد الأول",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/te8S5ko/"
+      },
+      "last_updated": "1631648867"
+   },
+  "9": {
+      "title": "ظل شبحي، ضال (1)",
+      "volume": "المجلد الأول",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/https://imgur.com/a/f39bkDw/"
+      },
+      "last_updated": "1631648867"
+   },
   "8": {
       "title": "المعبد القديم المختوم على الجبل (2)",
       "volume": "المجلد الأول",
